@@ -1,0 +1,123 @@
+---
+title: "Arthur Lydiard"
+subtitle: "Padre del entrenamiento moderno de atletismo"
+author: 
+    - "Alba Martínez de la Hermosa"
+    - "Daniel López Paredes"
+    - "Alonso González Romero"
+date: today
+format:
+  revealjs:
+    theme: [default, custom.scss]
+    slide-number: true
+    chalkboard: true
+    transition: slide
+    footer: "Introducción al Sports Analytics - MUSA"
+    logo: logourjc.png
+    css: styles.css
+    incremental: false
+    smaller: true
+    scrollable: true
+    title-slide-attributes:
+      data-background-image: "arthurLydiard.jpg"
+      data-background-size: contain
+      data-background-position: center
+      data-background-opacity: "0.5"
+bibliography: referencias.bib
+---
+
+## Contexto
+
+::: {.columns}
+
+::: {.column width="65%"}
+
+Hasta mediados del siglo XX, el entrenamiento en atletismo era **empírico, limitado y a menudo erróneo**:
+
+1. **Volumen bajo**: No se superaban los 20-30km semanales. 
+2. **Creencia errónea**: Largas distancias empeoraban la velocidad.
+3. **Sin planificación**: Entrenamiento similar todo el año. 
+4. **Por sensaciones**: No se diferenciaban sistemas energéticos. 
+
+
+Gracias a Arthur Lydiard, el atletismo dejó de basarse en estos conceptos para convertirse en una disciplina guiada por la ciencia y la planificación.
+
+:::
+
+::: {.column width="35%"} 
+![British Empire Games](britishEmpireGames.jpg){width=100%}
+:::
+
+:::
+
+## Biografía: Orígenes y Trayectoria
+
+::: {.columns}
+
+::: {.column width="55%"}
+
+**Datos personales:**
+
+1. Nació el 6 de julio de 1917 en Auckland, Nueva Zelanda. 
+2. Falleció el 11 de diciembre de 2004 en Texas a los 87 años de edad.
+3. Sin formación académica formal. 
+4. Trabajó como lechero y zapatero. 
+
+**Inicios deportivos:**
+
+1. Jugó al **rugby durante 13 años**
+2. Tras una lesión, comenzó a correr. Hizo *cross country*.
+3. Alcanzó la **12ª posición** en la maratón de los British Empire Games (2h 54min)
+
+:::
+
+::: {.column width="45%"}
+![Arthur Lydiard](arthurLydiard.jpg){width=100%}
+:::
+
+:::
+
+## Del Atleta al Entrenador de Élite
+
+::: {.columns}
+
+::: {.column width="50%"}
+
+**Método científico autodidacta:**
+
+1. Registró meticulosamente sus propios entrenamientos, tiempos y sensaciones.
+2. Aplicó un **análisis empírico** sobre sus propios datos.
+3. Desarrolló sistema de entrenamiento **aeróbico** y **periodizado**.
+4. Su propio progreso usando este sistema atrajo a atletas para pedirle consejo y entrenamiento.
+
+:::
+
+::: {.column width="50%"}
+
+**Los "Auckland Boys" (años 50-60):**
+
+1. Dirigió a los legendarios "Auckland Boys".
+2. Entre ellos, **Peter Snell**: medallas olímpicas y récords mundiales.
+3. Validó su método con éxito sin precedentes.
+
+![Peter Snell y Arthur Lydiard](arthurSnell.jpg){width=100%}
+
+:::
+
+:::
+
+## Contribución Principal
+
+## Impacto en el Deporte
+
+## Cierre y Reflexión Final
+
+## Referencias {.smaller}
+
+- Noakes, T. D. (2003). *Lore of Running* (4th ed.). Human Kinetics. Champaign, IL.
+
+- Calvo, M. (2020). Arthur Lydiard, el padre del entrenamiento moderno. *Soy Corredor*. [https://www.soycorredor.es/atletismo/arthur-lydiard-padre-entrenamiento-moderno_49038_102.html](https://www.soycorredor.es/atletismo/arthur-lydiard-padre-entrenamiento-moderno_49038_102.html)
+
+- Wikipedia contributors. Arthur Lydiard. *Wikipedia, The Free Encyclopedia*. [https://en.wikipedia.org/wiki/Arthur_Lydiard](https://en.wikipedia.org/wiki/Arthur_Lydiard)
+
+- ESPN Deportes. Historias de vida: Arthur Lydiard. [https://espndeportes.espn.com/espn-run/nota/_/id/3751897/historias-de-vida-arthur-lydiard](https://espndeportes.espn.com/espn-run/nota/_/id/3751897/historias-de-vida-arthur-lydiard)

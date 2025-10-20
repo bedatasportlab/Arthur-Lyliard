@@ -1,0 +1,204 @@
+/*-- scss:defaults --*/
+
+// Colores URJC - Paleta académica profesional
+$body-bg: #fef5f5;  // Fondo rojo muy clarito
+$body-color: #2c2c2c;  // Texto oscuro para contraste
+$link-color: #c41e3a;  // Rojo URJC
+$presentation-heading-color: #8b1a2b;  // Rojo oscuro para títulos
+$code-color: #c41e3a;
+
+// Fuentes académicas - Reducidas para mejor ajuste
+$presentation-font-size-root: 28px;
+$presentation-h1-font-size: 2.2em;
+$presentation-h2-font-size: 1.5em;
+$presentation-h3-font-size: 1.2em;
+$font-family-sans-serif: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+/*-- scss:rules --*/
+
+// Estilo general de la presentación
+.reveal {
+  font-weight: 300;
+}
+
+// Títulos con estilo académico
+.reveal h1, .reveal h2, .reveal h3 {
+  font-weight: 600;
+  text-transform: none;
+  margin-bottom: 0.8em;
+  text-shadow: none;
+}
+
+.reveal h2 {
+  border-bottom: 3px solid #c41e3a;
+  padding-bottom: 0.3em;
+  margin-bottom: 1em;
+}
+
+// Portada minimalista y profesional con mejor visibilidad de la imagen
+.reveal .slides section.title-slide {
+  border: none;
+  box-shadow: none;
+  background: transparent;
+  text-align: left;
+  padding: 2em;
+}
+
+.reveal .title-slide h1 {
+  color: #ffffff;
+  font-size: 3.5em;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  margin-bottom: 0.3em;
+  text-shadow: 3px 3px 8px rgba(0, 0, 0, 0.8);
+  border: none;
+  line-height: 1.2;
+}
+
+.reveal .title-slide .subtitle {
+  color: #ffffff;
+  font-size: 1.8em;
+  font-weight: 400;
+  margin-bottom: 2em;
+  text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.7);
+  font-style: italic;
+}
+
+.reveal .title-slide .author {
+  color: #ffffff;
+  font-size: 1.2em;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
+  margin-top: 3em;
+}
+
+.reveal .title-slide .date {
+  color: rgba(255, 255, 255, 0.9);
+  font-size: 1em;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+// Listas profesionales
+.reveal ul, .reveal ol {
+  margin-left: 1.5em;
+  line-height: 1.6;
+}
+
+.reveal ul li {
+  margin-bottom: 0.5em;
+}
+
+.reveal ul li::marker {
+  color: #c41e3a;
+  font-weight: bold;
+}
+
+// Énfasis y destacados
+.reveal em {
+  color: #c41e3a;
+  font-style: italic;
+}
+
+.reveal strong {
+  color: #8b1a2b;
+  font-weight: 600;
+}
+
+// Bloques de cita académicos
+.reveal blockquote {
+  font-style: italic;
+  border-left: 5px solid #c41e3a;
+  padding-left: 1.5em;
+  background: rgba(196, 30, 58, 0.05);
+  padding: 1em 1.5em;
+  margin: 1em 0;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+// Código con estilo académico
+.reveal code {
+  background: rgba(196, 30, 58, 0.08);
+  padding: 0.2em 0.4em;
+  border-radius: 3px;
+  font-family: 'Courier New', monospace;
+}
+
+.reveal pre {
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  border-left: 4px solid #c41e3a;
+}
+
+// Tablas profesionales
+.reveal table {
+  border-collapse: collapse;
+  margin: 1em auto;
+}
+
+.reveal table th {
+  background: #c41e3a;
+  color: white;
+  font-weight: 600;
+  padding: 0.6em;
+}
+
+.reveal table td {
+  padding: 0.5em;
+  border-bottom: 1px solid #ddd;
+}
+
+.reveal table tr:hover {
+  background: rgba(196, 30, 58, 0.05);
+}
+
+// Footer minimalista (solo texto, sin banda)
+.reveal .footer {
+  background: transparent;
+  color: #8b1a2b;
+  font-size: 0.5em;
+  padding: 0.3em;
+  font-weight: 500;
+  text-align: left;
+}
+
+// Números de diapositiva
+.reveal .slide-number {
+  background: transparent;
+  color: #2c2c2c;
+  font-weight: 600;
+  font-size: 0.8em;
+}
+
+// Enlaces
+.reveal a {
+  text-decoration: none;
+  border-bottom: 2px solid transparent;
+  transition: border-color 0.3s;
+}
+
+.reveal a:hover {
+  border-bottom: 2px solid #c41e3a;
+}
+
+// Secciones destacadas
+.reveal .destacado {
+  background: rgba(196, 30, 58, 0.1);
+  border-left: 5px solid #c41e3a;
+  padding: 1em;
+  margin: 1em 0;
+}
+
+// Columnas para layouts académicos
+.reveal .columns {
+  display: flex;
+  gap: 2em;
+}
+
+.reveal .column {
+  flex: 1;
+}
+
+// Logo más grande
+.reveal .slide-logo {
+  height: 80px !important;
+  max-height: 80px !important;
+}
