@@ -13,7 +13,7 @@ format:
     chalkboard: true
     transition: slide
     footer: "Introducción al Sports Analytics - MUSA"
-    logo: logourjc.png
+    logo: URJC_logo.svg.png
     css: styles.css
     incremental: false
     smaller: true
@@ -108,9 +108,58 @@ Gracias a Arthur Lydiard, el atletismo dejó de basarse en estos conceptos para 
 
 ## Contribución Principal
 
+Fruto de su conocimiento del contexto atlético de la época y de la observación de sus propios datos, hizo una propuesta de entrenamiento que rompía con todas las líneas de lo que se venía haciendo.
+
+::: {.columns}
+
+::: {.column width="50%"}
+
+**Caractersíticas de su propuesta:**
+
+1. **Entrenamiento periodizado:** no se hacía lo mismo durante todo el año. Las cargas variaban según el momento de la temporada para conseguir el pico de forma en la competición más importante.
+
+2. **Consideración de intensidades:** se usaban diferentes intensidades según el periodo de entrenamiento y el objetivo fisiológico perseguido.
+
+3. **Aumento de kilómetros semanales:** 30 kilómetros a la semana eran demasiado pocos.
+
+:::
+
+::: {.column width="50%"}
+
+**Propuesta:**
+
+1. **Periodo 1: base aeróbica.**
+Se hacían carreras continuas hasta llegar a los 160 kilómetros semanales. Era muy inflexible en este aspecto.
+
+2. **Periodo 2: desarrollo anaeróbico.**
+Se reducía el volumen y aumentaba la intensidad. Entrenaban en cuestas y la intensidad era próxima o igual a la velocidad máxima.
+
+3. **Periodo 3: puesta a punto.**
+Entrenaban en pista con series de 400 metros a la velocidad de prueba. Se combinaban días fuertes con días suaves.
+
+:::
+
+:::
+
+**CLAVE:** Durante los periodos de desarrollo anaeróbico y puesta a punto se seguían incluyendo días de carrera continua de hasta 30 kilómetros.
+
+![Ejemplo de entrenamiento periodizado](Periodizacion-entrenamieto.jpg){width=100%, height=50%}
+
 ## Impacto en el Deporte
 
 ## Cierre y Reflexión Final
+
+Arthur Lydiard supo interpretar sus datos de entrenamiento y su relación con las mejoras obervadas en el rendimiento.
+
+Junto con su comprensión del contexto de las ciencias del entrenamiento de su época, consiguió:
+
+- Aplicar el análisis de datos al entrenamiento de resistencia.
+
+- Introducir métodos que hoy son la base de una correcta planificación deportiva.
+
+- Llegar a conclusiones que estudios actuales siguen corroborando.
+
+- Medallas en los JJOO.
 
 ## Referencias {.smaller}
 
