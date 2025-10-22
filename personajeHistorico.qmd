@@ -147,6 +147,49 @@ Entrenaban en pista con series de 400 metros a la velocidad de prueba. Se combin
 
 ## Impacto en el Deporte
 
+- **Arthur Lydiard transformó el entrenamiento en una ciencia medible.**  
+  Su método dio paso a la planificación basada en datos y al seguimiento objetivo del rendimiento.
+- Introdujo la idea de que el progreso deportivo se podía **cuantificar**: volumen, intensidad, frecuencia cardíaca, tiempos de recuperación...
+- Su enfoque sirvió de base a la **fisiología del ejercicio moderna** y al desarrollo de la **analítica deportiva (sport analytics)**.  
+- Su modelo de periodización se adoptó en otros deportes como ciclismo, natación o triatlón.  
+- Inspiró el uso de tecnologías actuales (GPS, pulsómetros, VO₂ max, plataformas digitales) para **monitorizar y optimizar el rendimiento**.  
+- En definitiva, cambió el paradigma: del entrenamiento empírico al **entrenamiento planificado y analítico**.  
+
+> “Few coaches have had more impact on endurance training practices than Arthur Lydiard.”  
+> — *Sportsci.org (2003)*
+
+
+## Ejemplo de Impacto Posterior: Peter y Sebastian Coe
+
+En los años 70, **Peter Coe**, ingeniero y entrenador, reinterpretó los principios de Arthur Lydiard para crear un método más científico y cuantificable. Buscaba combinar la **intuición del entrenamiento** con la **precisión de la fisiología**.
+
+::: {.columns}
+
+::: {.column width="65%"}
+
+**De Lydiard mantuvo:**
+
+- La importancia de una **base aeróbica sólida**.  
+
+- La estructura de fases (resistencia → fuerza → velocidad).  
+
+**Pero innovó en:**
+
+- Controlar variables como el **lactato**, la **frecuencia cardíaca** y la **velocidad de umbral**.  
+
+- Introducir una **planificación científica** y seguimiento cuantitativo del rendimiento.
+
+:::
+
+::: {.column width="35%"}
+![](sebastian-coe.jpg){width=90% style="border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.3);"}
+:::
+
+:::
+
+El resultado fue visible: **Sebastian Coe**, doble campeón olímpico, entrenó bajo un sistema que combinaba **tradición, ciencia y datos**, redefiniendo el rendimiento de élite.
+
+
 ## Cierre y Reflexión Final
 
 Arthur Lydiard supo interpretar sus datos de entrenamiento y su relación con las mejoras obervadas en el rendimiento.
@@ -170,3 +213,6 @@ Junto con su comprensión del contexto de las ciencias del entrenamiento de su �
 - Wikipedia contributors. Arthur Lydiard. *Wikipedia, The Free Encyclopedia*. [https://en.wikipedia.org/wiki/Arthur_Lydiard](https://en.wikipedia.org/wiki/Arthur_Lydiard)
 
 - ESPN Deportes. Historias de vida: Arthur Lydiard. [https://espndeportes.espn.com/espn-run/nota/_/id/3751897/historias-de-vida-arthur-lydiard](https://espndeportes.espn.com/espn-run/nota/_/id/3751897/historias-de-vida-arthur-lydiard)
+
+- Wikipedia contributors. (2025, 11 agosto). Peter Coe. Wikipedia. [https://en.wikipedia.org/wiki/Peter_Coe](https://en.wikipedia.org/wiki/Peter_Coe)
+
