@@ -145,7 +145,7 @@ Entrenaban en pista con series de 400 metros a la velocidad de prueba. Se combin
 
 ## Ejemplo de entrenamiento periodizado
 
-!(Periodizacion-entrenamieto.jpg){width=100%, height=50%}
+![Ejemplo de entrenamiento periodizado](Periodizacion-entrenamieto.jpg){width=100%, height=50%}
 
 El volumen es alto en los primeros periodos de la planificación deportiva y va bajando según se acerca el momento de la competición.
 
@@ -160,7 +160,7 @@ Destaca que en ninguno de los tres periodos el volumen llega a estar tan bajo co
 - **Arthur Lydiard transformó el entrenamiento en una ciencia medible.**  
   Su método dio paso a la planificación basada en datos y al seguimiento objetivo del rendimiento.
 - Introdujo la idea de que el progreso deportivo se podía **cuantificar**: volumen, intensidad, frecuencia cardíaca, tiempos de recuperación...
-- Su enfoque sirvió de base para un entendimiento fisiológico más completo y profundo del **entrenamiento moderno de resistencia** y al desarrollo de la **analítica deportiva (sports analytics)**.  
+- Su enfoque sirvió de base para un entendimiento fisiológico más completo y profundo del **entrenamiento moderno de resistencia** y para el desarrollo de la **analítica deportiva (sports analytics)**.  
 - Su modelo de periodización se adoptó en otros deportes como ciclismo, natación o triatlón.  
 - Inspiró el uso de tecnologías actuales (GPS, pulsómetros, VO₂máx o plataformas digitales) para **monitorizar y optimizar el rendimiento**.  
 - En definitiva, cambió el paradigma: del entrenamiento empírico al **entrenamiento planificado y analítico**.  
@@ -223,6 +223,8 @@ Junto con su comprensión del contexto de las ciencias del entrenamiento de su �
 - Wikipedia contributors. (2025). Arthur Lydiard. *Wikipedia, The Free Encyclopedia*. [https://en.wikipedia.org/wiki/Arthur_Lydiard](https://en.wikipedia.org/wiki/Arthur_Lydiard)
 
 - ESPN Deportes. Historias de vida: Arthur Lydiard. [https://espndeportes.espn.com/espn-run/nota/_/id/3751897/historias-de-vida-arthur-lydiard](https://espndeportes.espn.com/espn-run/nota/_/id/3751897/historias-de-vida-arthur-lydiard)
+
+- EFDeportes. (2012). Periodización inversa en el entrenamiento deportivo actual. EFDeportes. [https://www.efdeportes.com/efd165/periodizacion-inversa-en-el-entrenamiento-deportivo.htm](https://www.efdeportes.com/efd165/periodizacion-inversa-en-el-entrenamiento-deportivo.htm)
 
 - Wikipedia contributors. (2025). Peter Coe. *Wikipedia, The Free Encyclopedia*. [https://en.wikipedia.org/wiki/Peter_Coe](https://en.wikipedia.org/wiki/Peter_Coe)
 
